@@ -24,7 +24,9 @@ Dự án ChitChat là một ứng dụng web chat đơn giản được xây d�
    ```bash
    flask run
    ```
-
+    ```bash
+   python main.py
+   ```
 3. **Truy cập:** Mở trình duyệt web và truy cập `http://127.0.0.1:5000/`
 
 ### 🛠 Công nghệ sử dụng

@@ -20,7 +20,9 @@ Dự án ChitChat là một ứng dụng web chat đơn giản được xây d�
 2. **Chạy ứng dụng:**
    ```bash
    set FLASK_APP=main.py
-flask run
+   ```
+   ```bash
+   flask run
    ```
 
 3. **Truy cập:** Mở trình duyệt web và truy cập `http://127.0.0.1:5000/`
